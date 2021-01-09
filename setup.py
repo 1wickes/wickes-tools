@@ -17,11 +17,11 @@ classifiers = [
 setup(
     name="wickes-tools",
     packages=find_packages(),
-    version="0.0.3",
+    version="0.0.4",
     description="code collection",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/1wickes/wickes-tools",
     author="",
     author_email="",
     license="MIT",
